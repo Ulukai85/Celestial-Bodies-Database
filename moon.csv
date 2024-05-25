@@ -1,0 +1,218 @@
+moon_id,name,planet,description,visited_by_men,planet_id
+0,Moon,Earth,“month”,True,2
+1,Phobos,Mars,Greek god of fear and panic,False,3
+2,Deimos,Mars,Greek god of dread and terror,False,3
+3,Io,Jupiter,"Ancestor to Perseus, Cadmus, Heracles, and Minos",False,4
+4,Europa,Jupiter,Mother of king Minos of Crete,False,4
+5,Ganymede,Jupiter,Male hero of Troy. Served as Zeus cup-bearer in Olympus,False,4
+6,Callisto,Jupiter,One of the nymphs. Daughter of king Lycaon and one of Artemis followers,False,4
+7,Amalthea,Jupiter,Foster-mother of Zeus,False,4
+8,Himalia,Jupiter,"Nymph of the island of Rhodes. Had three sons with Zeus: Sparteus, Kronios and Kytos",False,4
+9,Elara,Jupiter,"Mortal princess, daughter of king Orchomenus and mother of the giant Tytios.",False,4
+10,Pasiphae,Jupiter,Queen of Crete. Daughter of Helios and mother of the minotaur.,False,4
+11,Sinope,Jupiter,Daughter of Ares and one of the Amazons. It is believed the Turkish city of Sinop is named after her.,False,4
+12,Lysithea,Jupiter,Mother of Heracles and Zeus. Daughter of the titan Oceanus.,False,4
+13,Carme,Jupiter,"Mother of Britomartis, goddess of mountains and hunting",False,4
+14,Ananke,Jupiter,Personification of necessity. It also means “constrain” or “force”.,False,4
+15,Leda,Jupiter,Aetolian princess and later Spartan queen.,False,4
+16,Thebe,Jupiter,Name used by a few of Zeus’ daughters. It is also the name of a city in central Greece.,False,4
+17,Adrastea,Jupiter,Goddess of “inevitable fate”. Was in charge of nurturing and protecting Zeus.,False,4
+18,Metis,Jupiter,First wife of Zeus and mother of Athena.,False,4
+19,Callirrhoe,Jupiter,One of the Oceanids (daughters of the titan Oceanus),False,4
+20,Themisto,Jupiter,Daughter of the river god Inachus.,False,4
+21,Megaclite,Jupiter,Princess of the Locris region.,False,4
+22,Taygete,Jupiter,"One of the Pleiades, daughter of the titan Atlas.",False,4
+23,Chaldene,Jupiter,Mother of the hero Solymos.,False,4
+24,Harpalyke,Jupiter,Princess of Arcadia.,False,4
+25,Kalyke,Jupiter,Alternatively written as Calyce. Thessalian princess. It is also the name of one of the nymphs.,False,4
+26,Iocaste,Jupiter,"Named after Jocasta, daughter of king Menoeceus and wife of Oedipus.",False,4
+27,Erinome,Jupiter,"In her story, Venus compelled her to fall in love with Jupiter to ruin her.",False,4
+28,Isonoe,Jupiter,One of the Danaides. Zeus turned her into a spring after her death.,False,4
+29,Praxidike,Jupiter,Greek goddess of punishment.,False,4
+30,Autonoe,Jupiter,Theban princess and eldest daughter of Cadmus.,False,4
+31,Thyone,Jupiter,Also known as Semele. Youngest daughter of Cadmus.,False,4
+32,Hermippe,Jupiter,Daughter of Boetus. Had a son with Poseidon.,False,4
+33,Aitne,Jupiter,The personification of mount Etna,False,4
+34,Eurydome,Jupiter,"Also known as Eurynome or Euanthe. Mother of the Graces, goddesses of charm, beauty, goodwill, and creativity",False,4
+35,Euanthe,Jupiter,See above,False,4
+36,Euporie,Jupiter,Also known as Euporia. Greek goddess of abundance.,False,4
+37,Orthosie,Jupiter,Greek goddess of prosperity and one of the Horae.,False,4
+38,Sponde,Jupiter,One of the Horae (goddesses of seasons and time periods),False,4
+39,Kale,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",False,4
+40,Pasithee,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",False,4
+41,Hegemone,Jupiter,"One of the Graces or Charities (goddesses of charm, beauty, goodwill, and creativity)",False,4
+42,Mneme,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",False,4
+43,Aoede,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",False,4
+44,Thelxinoe,Jupiter,"One of the three original muses (goddesses of literature, science, and arts)",False,4
+45,Arche,Jupiter,One of the muses,False,4
+46,Kallichore,Jupiter,One of the nymphs,False,4
+47,Helike,Jupiter,One of the nymphs,False,4
+48,Carpo,Jupiter,Daughter of Zeus and one of the Horae (goddesses of the seasons),False,4
+49,Eukelade,Jupiter,Also written as Eucelade. One of the muses,False,4
+50,Cyllene,Jupiter,"A naiad (a spirit or nymph that hangs in rivers, lakes, streams or other water bodies)",False,4
+51,Kore,Jupiter,"Alternativve name for Persephone, daughter of Zeus and wife to Hades which made her queen of the underworld.",False,4
+52,Herse,Jupiter,Personification of dew. Daughter of Zeus and the Moon (Selene). Also known as Ersa.,False,4
+53,S/2010 J 1,Jupiter,,False,4
+54,S/2010 J 2,Jupiter,,False,4
+55,Dia,Jupiter,"Daughter of Deioneus, wife of Ixion.",False,4
+56,S/2016 J 1,Jupiter,,False,4
+57,S/2003 J 18,Jupiter,,False,4
+58,S/2011 J 2,Jupiter,,False,4
+59,Eirene,Jupiter,Personification of Peace. One of the Horae.,False,4
+60,Philophrosyne,Jupiter,Spirit of friendliness and kindness. One of the Charities or Graces.,False,4
+61,S/2017 J 1,Jupiter,,False,4
+62,Eupheme,Jupiter,"Greek spirit of words of good omen, praise, and acclaims.",False,4
+63,S/2003 J 19,Jupiter,,False,4
+64,Valetudo,Jupiter,Roman goddess of health and hygiene,False,4
+65,S/2017 J 2,Jupiter,,False,4
+66,S/2017 J 3,Jupiter,,False,4
+67,Pandia,Jupiter,Greek representation of the Moon. Daughter of Zeus and Selene.,False,4
+68,S/2017 J 5,Jupiter,,False,4
+69,S/2017 J 6,Jupiter,,False,4
+70,S/2017 J 7,Jupiter,,False,4
+71,S/2017 J 8,Jupiter,,False,4
+72,S/2017 J 9,Jupiter,,False,4
+73,Ersa,Jupiter,Personification of dew. Daughter of Zeus and the Moon (Selene). Also known as Herse.,False,4
+74,S/2011 J 1,Jupiter,,False,4
+75,S/2003 J 2,Jupiter,,False,4
+76,S/2003 J 4,Jupiter,,False,4
+77,S/2003 J 9,Jupiter,,False,4
+78,S/2003 J 10,Jupiter,,False,4
+79,S/2003 J 12,Jupiter,,False,4
+80,S/2003 J 16,Jupiter,,False,4
+81,S/2003 J 23,Jupiter,,False,4
+82,S/2003 J 24,Jupiter,,False,4
+83,S/2016 J 4,Jupiter,,False,4
+84,S/2016 J 3,Jupiter,,False,4
+85,S/2018 J 3,Jupiter,,False,4
+86,S/2018 J 4,Jupiter,,False,4
+87,S/2021 J 1,Jupiter,,False,4
+88,S/2021 J 2,Jupiter,,False,4
+89,S/2021 J 3,Jupiter,,False,4
+90,S/2021 J 4,Jupiter,,False,4
+91,S/2021 J 5,Jupiter,,False,4
+92,S/2021 J 6,Jupiter,,False,4
+93,Mimas,Saturn,One of the Gigantes (giants). Son of Gaia (Earth),False,5
+94,Enceladus,Saturn,One of the Gigantes (giants). Son of Gaia (Earth) and Uranus (Sky),False,5
+95,Tethys,Saturn,One of the Titans. Mother of the Oceanids.,False,5
+96,Dione,Saturn,One of the Titans,False,5
+97,Rhea,Saturn,One of the Titans. Older sister of Cronus.,False,5
+98,Titan,Saturn,Named after the Greek Titans,False,5
+99,Hyperion,Saturn,"Titan god of observation. Father of Helios, Eos, and Selene (the Moon)",False,5
+100,Iapetus,Saturn,One of the Titans. Father of Atlas and Prometheus. Also written as Japetus,False,5
+101,Phoebe,Saturn,One of the first generation Titaness. It means “shining” or “bright”. Original owner of the oracle of Delphi.,False,5
+102,Janus,Saturn,"Roman god of beginnings, duality, time, and doorways.",False,5
+103,Epimetheus,Saturn,One of the Titans. Brother of Prometheus,False,5
+104,Helene,Saturn,Named after Helen of Troy. Granddaughter of Cronus.,False,5
+105,Telesto,Saturn,Personification of divine blessing and success. One of the Oceanids.,False,5
+106,Calypso,Saturn,A nymph who lived in the island of Ogygia,False,5
+107,Atlas,Saturn,One of the Titans. Condemned to hold up the sky for eternity after the Titanomachy,False,5
+108,Prometheus,Saturn,One of the Titans. Known for stealing the fire of the gods and gifting it to humanity,False,5
+109,Pandora,Saturn,Also known as Anesidora.It means “she who sends up gifts”,False,5
+110,Pan,Saturn,"God of the wild, sheperds, and flocks.",False,5
+111,Ymir,Saturn,"Ancestor to all the frost giants in Norse mythology. Also known as Aurgelmir, Brimir, or Bláinn",False,5
+112,Paaliaq,Saturn,Named after after a fictional shaman in the book The Curse of the Shaman,False,5
+113,Tarvos,Saturn,A divine figure of a bulle with thre cranes perched on its back,False,5
+114,Ijiraq,Saturn,Shapeshifting creature in Inuit mythology,False,5
+115,Suttungr,Saturn,A Jötunn (giant) in Norse mythlogy,False,5
+116,Kiviuq,Saturn,A hero in Inuit mythology,False,5
+117,Mundilfari,Saturn,Father of the Sun and the Moon in Norse mythology,False,5
+118,Albiorix,Saturn,Named after a Gallic giant who was said to be “king of the world”,False,5
+119,Skathi,Saturn,"Also known as Skadi or Skaði. A goddess associated with bowhunting, skiing, winter, and the mountains",False,5
+120,Erriapus,Saturn,A giant in Gaulish (Celtic) mythology,False,5
+121,Siarnaq,Saturn,Inuit goddess of the sea. Also kown as Sedna,False,5
+122,Thrymr,Saturn,King of the Jǫtnar in Norse mythology,False,5
+123,Narvi,Saturn,"Named after Narfi, a Jötunn (giant) in Norse mythlogy",False,5
+124,Methone,Saturn,"One of the Alkyonides, the seven beatiful daughters of Alkyoneus",False,5
+125,Pallene,Saturn,"One of the Alkyonides, the seven beatiful daughters of Alkyoneus",False,5
+126,Polydeuces,Saturn,"Alternative name for Pollux, son of Zeus and Leda",False,5
+127,Daphnis,Saturn,"A Sicilian sheperd, descendant of the Titans",False,5
+128,Aegir,Saturn,Personification of the tranquil seas in Norse mythology,False,5
+129,Bebhionn,Saturn,Irish goddess of birth,False,5
+130,Bergelmir,Saturn,A giant of Norse mythology. Grandsonof Ymir,False,5
+131,Bestla,Saturn,Mother of Odin,False,5
+132,Farbauti,Saturn,Father of Loki,False,5
+133,Fenrir,Saturn,Giant wolf from Norse mythology,False,5
+134,Fornjot,Saturn,A giant of Norse mythology,False,5
+135,Hati,Saturn,Giant wolf from Norse mythology. Son of Fenrir,False,5
+136,Hyrrokkin,Saturn,A female Jötunn (giant),False,5
+137,Kari,Saturn,Personification of wind in Norse mythology,False,5
+138,Loge,Saturn,Also named Logi. A fire Jötunn (giant),False,5
+139,Skoll,Saturn,Giant wolf from Norse mythology. Son of Fenrir,False,5
+140,Surtur,Saturn,Also known as Surt. Leader of the fire fire Jötunn (giants),False,5
+141,Anthe,Saturn,"It means “flowery”. One of the Alkyonides, the seven beatiful daughters of Alkyoneus",False,5
+142,Jarnsaxa,Saturn,A female Jötunn (giant),False,5
+143,Greip,Saturn,A female Jötunn (giant),False,5
+144,Tarqeq,Saturn,A lunar (moon) deity in Inuit mythology,False,5
+145,Aegaeon,Saturn,"One of the hekatonkheires, three giants of Greek mythology",False,5
+146,Gridr,Saturn,A female Jötunn (giant),False,5
+147,Angrboda,Saturn,A female Jötunn (giant),False,5
+148,Skrymir,Saturn,Master of illusions and master of castle ruler of the castle Útgarðr in Norse mythology,False,5
+149,Gerd,Saturn,Wife of the god Freyr,False,5
+150,S/2004 S 26,Saturn,,False,5
+151,Eggther,Saturn,A Jötunn (giant) who raises wolves,False,5
+152,S/2004 S 29,Saturn,,False,5
+153,Beli,Saturn,A Jötunn (giant),False,5
+154,Gunnlod,Saturn,A female Jötunn (giant),False,5
+155,Thiazzi,Saturn,A Jötunn (giant). Father of Skadi,False,5
+156,S/2004 S 34,Saturn,,False,5
+157,Alvaldi,Saturn,A Jötunn (giant). Father of Thiazzi,False,5
+158,Geirrod,Saturn,A Jötunn (giant) who was killed by Thor,False,5
+159,S/2004 S 7,Saturn,,False,5
+160,S/2004 S 12,Saturn,,False,5
+161,S/2004 S 13,Saturn,,False,5
+162,S/2004 S 17,Saturn,,False,5
+163,S/2004 S 21,Saturn,,False,5
+164,S/2004 S 24,Saturn,,False,5
+165,S/2004 S 28,Saturn,,False,5
+166,S/2004 S 31,Saturn,,False,5
+167,S/2004 S 36,Saturn,,False,5
+168,S/2004 S 37,Saturn,,False,5
+169,S/2004 S 39,Saturn,,False,5
+170,S/2006 S 1,Saturn,,False,5
+171,S/2006 S 3,Saturn,,False,5
+172,S/2007 S 2,Saturn,,False,5
+173,S/2007 S 3,Saturn,,False,5
+174,S/2009 S 1,Saturn,,False,5
+175,S/2019 S 1,Saturn,,False,5
+176,Ariel,Uranus,Named after a character in Alexander Pope’s works.,False,6
+177,Umbriel,Uranus,Named after the “dusky melancholy sprite” in Alexander Pope’s works.,False,6
+178,Titania,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,False,6
+179,Oberon,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,False,6
+180,Miranda,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+181,Cordelia,Uranus,Named after a charcter in Shakespeare’s play King Lear,False,6
+182,Ophelia,Uranus,Named after a charcter in Shakespeare’s play Hamlet,False,6
+183,Bianca,Uranus,Named after a charcter in Shakespeare’s play The Taming of the Shrew,False,6
+184,Cressida,Uranus,Named after a charcter in Shakespeare’s play Troilus and Cressida,False,6
+185,Desdemona,Uranus,Named after a charcter in Shakespeare’s play Othello,False,6
+186,Juliet,Uranus,Named after a charcter in Shakespeare’s play Romeo and Juliet,False,6
+187,Portia,Uranus,Named after a charcter in Shakespeare’s play The Merchant of Venice,False,6
+188,Rosalind,Uranus,Named after a charcter in Shakespeare’s play As You Like It,False,6
+189,Belinda,Uranus,Named after a character in Alexander Pope’s works.,False,6
+190,Puck,Uranus,Named after a charcter in Shakespeare’s play A Midsummer Night’s Dream,False,6
+191,Caliban,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+192,Sycorax,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+193,Prospero,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+194,Setebos,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+195,Stephano,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+196,Trinculo,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+197,Francisco,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+198,Margaret,Uranus,Named after a charcter in Shakespeare’s play Much Ado About Nothing,False,6
+199,Ferdinand,Uranus,Named after a charcter in Shakespeare’s play The Tempest,False,6
+200,Perdita,Uranus,Named after a charcter in Shakespeare’s play The Winter’s Tale,False,6
+201,Mab,Uranus,Named after a charcter in Shakespeare’s play Romeo and Juliet,False,6
+202,Cupid,Uranus,Named after a charcter in Shakespeare’s play Timon of Athens,False,6
+203,Triton,Neptune,Greek god of the sea. Son of Poseidon,False,7
+204,Nereid,Neptune,"Named after the Nereids, the sea-nymphs of Greek mythology",False,7
+205,Naiad,Neptune,"Named after the Naiads, spirts or nymphs of rivers, seas, fountains, etc.",False,7
+206,Thalassa,Neptune,Pre-Greek word for “sea” and its representation in mythology,False,7
+207,Despina,Neptune,Also known as Despoina. One of Poseidon’s daughter,False,7
+208,Galatea,Neptune,One of the Nereids in Greek mythology,False,7
+209,Larissa,Neptune,Nymph from Thelassy in Greek mythology,False,7
+210,Proteus,Neptune,Shape-changing sea god in Greek mythology,False,7
+211,Halimede,Neptune,One of the Nereids in Greek mythology,False,7
+212,Psamathe,Neptune,One of the Nereids in Greek mythology,False,7
+213,Sao,Neptune,One of the Nereids. Associated with “safety” and “rescue” at sea.,False,7
+214,Laomedeia,Neptune,One of the Nereids in Greek mythology,False,7
+215,Neso,Neptune,One of the Nereids in Greek mythology,False,7
+216,Hippocamp,Neptune,Named after the mythological sea-horse creature,False,7

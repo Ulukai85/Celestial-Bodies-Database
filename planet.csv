@@ -1,0 +1,10 @@
+planet_id,name,diameter_in_km,gravity_in_m/s^2,length_of_day_in_hours,mean_temperature_in_celsius,has_ring_system,visited_by_men,star_id
+0,Mercury,4879,3.7,4222.6,167,No,False,11667
+1,Venus,12104,8.9,2802.0,464,No,False,11667
+2,Earth,12756,9.8,24.0,15,No,True,11667
+3,Mars,6792,3.7,24.7,-65,No,False,11667
+4,Jupiter,142984,23.1,9.9,-110,Yes,False,11667
+5,Saturn,120536,9.0,10.7,-140,Yes,False,11667
+6,Uranus,51118,8.7,17.2,-195,Yes,False,11667
+7,Neptune,49528,11.0,16.1,-200,Yes,False,11667
+8,Pluto,2376,0.7,153.3,-225,No,False,11667

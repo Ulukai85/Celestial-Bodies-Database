@@ -1,0 +1,89 @@
+constellation_id,name,description,galaxy_id
+0,Andromeda,Princess of Ethiopia,0
+1,Antlia,Air pump,43
+2,Apus,Bird of Paradise,43
+3,Aquarius,Water bearer,43
+4,Aquila,Eagle,43
+5,Ara,Altar,43
+6,Aries,Ram,43
+7,Auriga,Charioteer,43
+8,Bootes,Herdsman,43
+9,Caelum,Graving tool,43
+10,Camelopardalis,Giraffe,43
+11,Cancer,Crab,43
+12,Canes Venatici,Hunting dogs,42
+13,Canis Major,Big dog,43
+14,Canis Minor,Little dog,43
+15,Capricornus,Sea goat,43
+16,Carina,Keel of Argonauts' ship,43
+17,Cassiopeia,Queen of Ethiopia,43
+18,Centaurus,Centaur,2
+19,Cepheus,King of Ethiopia,16
+20,Cetus,Sea monster (whale),31
+21,Chamaeleon,Chameleon,43
+22,Circinus,Compasses,9
+23,Columba,Dove,43
+24,Coma Berenices,Berenice's hair,30
+25,Corona Australis,Southern crown,43
+26,Corona Borealis,Northern crown,43
+27,Corvus,Crow,1
+28,Crater,Cup,43
+29,Crux,Cross (southern),43
+30,Cygnus,Swan,16
+31,Delphinus,Porpoise,43
+32,Dorado,Swordfish,20
+33,Draco,Dragon,40
+34,Equuleus,Little horse,43
+35,Eridanus,River,14
+36,Fornax,Furnace,43
+37,Gemini,Twins,43
+38,Grus,Crane,43
+39,Hercules,"Hercules, son of Zeus",43
+40,Horologium,Clock,43
+41,Hydra,Sea serpent,37
+42,Hydrus,Water snake,43
+43,Indus,Indian,43
+44,Lacerta,Lizard,43
+45,Leo,Lion,43
+46,Leo Minor,Little lion,43
+47,Lepus,Hare,43
+48,Libra,Balance,43
+49,Lupus,Wolf,43
+50,Lynx,Lynx,17
+51,Lyra,Lyre or harp,43
+52,Mensa,Table mountain,20
+53,Microscopium,Microscope,43
+54,Monoceros,Unicorn,43
+55,Musca,Fly,43
+56,Norma,Carpenter's Level,43
+57,Octans,Octant,43
+58,Ophiuchus,Holder of serpent,43
+59,Orion,"Orion, the hunter",43
+60,Pavo,Peacock,12
+61,Pegasus,"Pegasus, the winged horse",32
+62,Perseus,"Perseus, hero who saved Andromeda",43
+63,Phoenix,Phoenix,43
+64,Pictor,Easel,43
+65,Pisces,Fishes,43
+66,Piscis Austrinus,Southern fish,43
+67,Puppis,Stern of the Argonauts' ship,43
+68,Pyxis,Compass on the Argonauts' ship,43
+69,Reticulum,Net,43
+70,Sagitta,Arrow,43
+71,Sagittarius,Archer,29
+72,Scorpius,Scorpion,43
+73,Sculptor,Sculptor's tools,35
+74,Scutum,Shield,43
+75,Serpens,Serpent,19
+76,Sextans,Sextant,13
+77,Taurus,Bull,43
+78,Telescopium,Telescope,43
+79,Triangulum,Triangle,41
+80,Triangulum Australe,Southern triangle,43
+81,Tucana,Toucan,27
+82,Ursa Major,Big bear,34
+83,Ursa Minor,Little bear,43
+84,Vela,Sail of the Argonauts' ship,43
+85,Virgo,Virgin,36
+86,Volans,Flying fish,21
+87,Vulpecula,Fox,43
