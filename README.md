@@ -2,6 +2,8 @@
 # Celestial Bodies Database
 ## Course: Relational Database
 
+![Celestial Bodies Logo](https://github.com/Ulukai85/celestial-bodies-database/blob/main/celestial-bodies.png)
+
 This project is part of the freeCodeCamp course "Relational Database", outlined [here](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database).
 
 To successfully pass this project I had to build a SQL database (per PostgreSQL) with five tables (moons, planets, stars, galaxies + one more), which had to fulfill multiple restrictions and conditions.
